@@ -36,4 +36,4 @@ I am the solo founder and developer of **[PDF Pro](https://www.pdfpro.co.in)** â
 - Looking to collaborate on exciting open-source projects or high-impact freelance gigs.
 
 Visitor Count: <br>
-![Visitor Count](https://profile-counter.glitch.me/rbanerjee78/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=rbanerjee78&color=blue&style=flat-square&label=PROFILE+VIEWS)
